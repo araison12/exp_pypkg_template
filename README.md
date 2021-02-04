@@ -74,7 +74,7 @@ The directory structure of your new project looks like this:
 
 ### Installing development requirements
 ------------
-    apt install python-virtualenv
+    apt install -y python-virtualenv
     virtualenv local_env
     source local_env/bin/activate
     pip install -r requirements.txt
