@@ -3,9 +3,6 @@
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
 
 
-#### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
-
-
 ### Requirements to use the cookiecutter template:
 -----------
  - Python 2.7 or 3.5+
@@ -15,21 +12,11 @@ _A logical, reasonably standardized, but flexible project structure for doing an
 $ pip install cookiecutter
 ```
 
-or
-
-``` bash
-$ conda config --add channels conda-forge
-$ conda install cookiecutter
-```
-
 
 ### To start a new project, run:
 ------------
 
     cookiecutter https://github.com/drivendata/cookiecutter-data-science
-
-
-[![asciicast](https://asciinema.org/a/244658.svg)](https://asciinema.org/a/244658)
 
 
 ### The resulting directory structure
