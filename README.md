@@ -16,7 +16,7 @@ $ pip install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/drivendata/cookiecutter-data-science
+    cookiecutter https://github.com/araison12/exp_pypkg_template.git
 
 
 ### The resulting directory structure
